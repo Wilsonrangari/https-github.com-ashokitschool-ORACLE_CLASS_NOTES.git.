@@ -36,7 +36,7 @@ Oracle Supports following below operators
 
 3) Logical Operators: and,or
 
-4) Special Operators : between,notbetween,in,notin,like etc.,
+4) Special Operators : between,notbetween,in,not in,like etc.,
 
 Examples
 ========
